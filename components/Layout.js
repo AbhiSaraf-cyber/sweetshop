@@ -44,7 +44,7 @@ export default function Layout({
     <React.Fragment>
       <Head>
         <meta charSet="utf-8" />
-        <title>{`${title} - Coolshop`}</title>
+        <title>{`${title} - SweetShop`}</title>
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="viewport"
